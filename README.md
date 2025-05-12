@@ -32,5 +32,5 @@ A real-time financial transaction monitoring platform using Kafka for streaming,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/FinancialPlatform.git
+   git clone https://github.com/MohitGole028/Fraud_Detection_with_stream_data.git
    cd FinancialPlatform
